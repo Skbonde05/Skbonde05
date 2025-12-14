@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Shraddha  
+🚀 MERN Stack Developer | Computer Engineering Student  
+💡 Passionate about building modern, scalable web apps
 
-<!--
-**Skbonde05/Skbonde05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+React • Node.js • Express • MongoDB • JavaScript • HTML • CSS • Git
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- **Project Name** – short description + link  
+- **Project Name** – short description + link  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+(Add stats cards later)
+
+## 🌐 Connect With Me
+LinkedIn / Portfolio / Email
