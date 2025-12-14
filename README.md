@@ -14,7 +14,6 @@
 🧠 Passionate about **Web Development & Building Scalable Apps**  
 🎯 Always learning **MERN Stack, Mobile App Development**  
 💡 I love creating **clean UI/UX + efficient backend systems**  
-📌 Final-year Computer Engineering Student  
 
 </div>
 
