@@ -1,28 +1,36 @@
-<!-- Animated Header -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Shraddha+Bonde+👋;MERN+Stack+Developer+💻;Full+Stack+Learner+%26+Problem+Solver+🚀;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Shraddha+Bonde+👋;MERN+Stack+Developer+💻;Full+Stack+Learner+🚀;Mobile+App+Developer📱;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!-- Wavy Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br/>
 
 ## 🌟 About Me  
-<div align="center">
+<p align="center">
+🧠 Passionate about <b>Web Development & Mobile Apps</b><br>
+🎯 Focused on <b>MERN Stack + React Native</b><br>
+💡 Creating <b>clean UI/UX & efficient backend logic</b><br>
+🚀 Love exploring new tech & solving real problems  
+</p>
 
-🧠 Passionate about **Web Development & Building Scalable Apps**  
-🎯 Always learning **MERN Stack, Mobile App Development**  
-💡 I love creating **clean UI/UX + efficient backend systems**  
-
-</div>
 
 ---
 
-## 🚀 Tech Stack (Animated)
+## 🚀 Tech Stack (Animated Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwind,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwind,figma,vscode,postman,androidstudio,firebase&perline=8" />
 </p>
+
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Skbonde05&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
+
 
 ---
 
@@ -37,10 +45,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skbonde05&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
+
+---
+
+## 📊 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skbonde05&theme=react-dark&hide_border=true" />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake Animation  
+<p align="center">
+  <img src="https://github.com/Skbonde05/Skbonde05/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- If snake doesn't load yet, that's normal. We'll enable it next. -->
+
+
 ---
 
 ## 🎵 Aesthetic Wave Animation  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+
 
 ---
 
@@ -48,6 +76,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 
 ---
 
@@ -58,10 +87,10 @@
   <a href="https://skbonde05.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
+
 ---
 
-## 🧊 Fun Animation  
+<!-- Footer Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%">
 </p>
-
