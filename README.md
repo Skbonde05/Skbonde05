@@ -26,20 +26,6 @@
 
 ---
 
-## ✨ Featured Projects  
-### 🌐 **1. Modern Web Applications**
-<div align="center">
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚀 **Project A** | Modern frontend UI with animations | React + Tailwind |
-| 🛒 **Project B** | Full-stack eCommerce | MERN Stack |
-| 🤖 **Project C** | Chat system with backend | Node + MongoDB |
-
-</div>
-
----
-
 ## 📈 GitHub Stats (Animated Cards)
 
 <p align="center">
