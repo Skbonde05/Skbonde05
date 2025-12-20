@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 <p align="center">
 🧠 Passionate about <b>Web Development & Mobile Apps</b><br>
-🎯 Focused on <b>MERN Stack + React Native</b><br>
+🎯 Focused on <b>MERN Stack</b><br>
 💡 Creating <b>clean UI/UX & efficient backend logic</b><br>
 🚀 Love exploring new tech & solving real problems  
 </p>
