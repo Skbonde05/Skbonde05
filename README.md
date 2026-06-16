@@ -175,9 +175,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -195,8 +192,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Skbonde05&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -204,15 +199,12 @@
 ![Snake animation](https://raw.githubusercontent.com/Skbonde05/Skbonde05/output/github-contribution-grid-snake-dark.svg)
 
 </div>
----
 
 ## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Daily Quote" />
 </div>
-
----
 
 ## 📬 Connect With Me
 
@@ -232,7 +224,6 @@
   
 </div>
 
----
 
 <div align="center">
   
