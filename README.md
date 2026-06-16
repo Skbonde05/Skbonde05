@@ -197,14 +197,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skbonde05&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -212,7 +204,6 @@
 ![Snake animation](https://raw.githubusercontent.com/Skbonde05/Skbonde05/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 
 ## 💬 Quote of the Day
