@@ -95,56 +95,86 @@
 
 ---
 
-### 📚 Study Challenge App
+## 📚 Study Challenge App
+
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Navigation-CA4245?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
-**Study Challenge App** is a mobile application designed to gamify the learning process, helping students stay motivated and track their study progress.
+**Study Challenge App** is a gamified mobile application designed to help students stay consistent with their studies through daily challenges, focus sessions, and progress tracking. The app encourages productive learning habits with achievements, streaks, and insightful statistics.
 
-#### ✨ **Key Features:**
-- 🎯 **Daily study challenges and goals**
-- 📊 **Progress tracking with analytics**
-- 🏆 **Achievement system and rewards**
-- 👥 **Social features and study groups**
-- ⏰ **Pomodoro timer with focus sessions**
-- 📈 **Performance insights and reports**
+### ✨ Key Features
 
-#### 🛠️ **Tech Stack:**
-- **Mobile:** React Native, TypeScript, Expo
-- **Backend:** Firebase (Auth, Firestore, Storage)
-- **State Management:** Redux Toolkit
-- **Navigation:** React Navigation
-- **UI Components:** React Native Paper
+* 🎯 Daily study challenges and personalized goals
+* ⏱️ Pomodoro timer for focused study sessions
+* 📊 Track study progress with detailed analytics
+* 🏆 Achievement badges and reward system
+* 🔥 Daily streak tracking
+* 🔔 Smart reminders and notifications
+* 🌙 Dark & Light theme support
+* 📈 Performance insights and study statistics
 
----
+### 🛠️ Tech Stack
+
+* **Mobile:** React Native, Expo, TypeScript
+* **Backend & Database:** Supabase
+* **Authentication:** Supabase Auth
+* **Database:** PostgreSQL (Supabase)
+* **Navigation:** React Navigation
+* **UI Components:** React Native Paper
+
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,redux,git,github,postman,figma,vscode,androidstudio,java,python,reactnative&perline=8" />
-</p>
+### 💻 Frontend
 
-<div align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</p>
+
+### 💡 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🛠️ Tools
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
 
 ---
 
@@ -178,7 +208,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Skbonde05/Skbonde05/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+![Snake animation](https://raw.githubusercontent.com/Skbonde05/Skbonde05/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
